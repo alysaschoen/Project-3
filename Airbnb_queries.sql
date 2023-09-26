@@ -69,6 +69,17 @@ WHERE
 	AND "Borough"='Queens'
 	AND "Instant_Booking"='TRUE'
 	AND "Room_Type"='Entire home/apt'
+	
+--Number of Neighborhoods in Each Borough
+SELECT "Borough", COUNT(DISTINCT "Neighbourhood") AS "Number_of_Neighborhoods"
+FROM "Airbnb_Data"
+WHERE "Borough" IN ('Queens','Manhattan','Brooklyn','Staten Island','Bronx')
+GROUP BY "Borough"
+ORDER BY "Number_of_Neighborhoods" DESC
+
+--Number of Listings
+SELECT COUNT("id")
+FROM "Airbnb_Data"
 
 
 SELECT * FROM "Airbnb_Data"
