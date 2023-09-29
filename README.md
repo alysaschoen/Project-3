@@ -46,7 +46,7 @@ _________________________________________________________________________
 
 ### 1. How does pricing vary by neighborhood groups?
 
-![Dist of Listings by Borough](Images/Dist_of__Listings_by_Borough.png)
+![Dist of Listings by Borough](Images/Dist_of_Room_Types_by_Borough.png)
 
 
 ### 2. How does property type vary by borough?
