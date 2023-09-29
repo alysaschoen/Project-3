@@ -61,7 +61,7 @@ The majority of the listings emphasized "Private Room", and locations/proximity 
 rated 5 stars - again, "Private Room" was very emphasized as well as location and description of the listing ("Cozy", "Spacious", "Bright").
 
 ![Word_Cloud_Listing_Name](Images/Word_Cloud_Listing_Name.png)
-![Word_Cloud_5_Star_Listing](Images/Word_Cloud_5_Star_Listing.png)
+![Word_Cloud_5_Star_Listings](Images/Word_Cloud_5_Star_Listings.png)
 
 
 ### 4. What is the average pricing by property type based on neighborhood along with cancellation policies?
