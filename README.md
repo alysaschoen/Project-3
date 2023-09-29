@@ -17,11 +17,6 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
-### PROJECT DESCRIPTION/OUTLINE:  
-
-
-________________________________________________________________________
-
 ### RESEARCH QUESTIONS TO ANSWER:
 
 1. How does pricing vary by neighborhood groups?
@@ -34,11 +29,6 @@ ________________________________________________________________________
 ### DATASET USED:
 
 Airbnb Data: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
-
-_________________________________________________________________________
-
-## REFERENCES / RESOURCES
-
 
 _________________________________________________________________________
 
@@ -56,7 +46,7 @@ _________________________________________________________________________
 
 ### 1. How does pricing vary by neighborhood groups?
 
-
+![Dist_of_Room_Types_by_Borough](Images/Dist_of_Room_Types_by_Borough.png)
 
 
 ### 2. How does property type vary by borough?
